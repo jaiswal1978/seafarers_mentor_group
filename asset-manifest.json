@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seafarers_mentor_group/static/css/main.71754a78.css",
+    "main.js": "/seafarers_mentor_group/static/js/main.2f71cf26.js",
+    "static/js/453.12c6956f.chunk.js": "/seafarers_mentor_group/static/js/453.12c6956f.chunk.js",
+    "index.html": "/seafarers_mentor_group/index.html",
+    "main.71754a78.css.map": "/seafarers_mentor_group/static/css/main.71754a78.css.map",
+    "main.2f71cf26.js.map": "/seafarers_mentor_group/static/js/main.2f71cf26.js.map",
+    "453.12c6956f.chunk.js.map": "/seafarers_mentor_group/static/js/453.12c6956f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71754a78.css",
+    "static/js/main.2f71cf26.js"
+  ]
+}
