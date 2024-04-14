@@ -95,5 +95,13 @@ const Data = [
         email: "a.jaiswal78@gmail.com",
         prefferedMode: "WhatsApp, Email, Google Meet / Zoom"
       },
+      {
+        id: 13,
+        header: "RAVI RANJAN SINHA",
+        contactNumber: "+917667724852",
+        whatsAppNumber: "+917667724852",
+        email: "raviranjansinhanalanda@gmail.com",
+        prefferedMode: "WhatsApp, Email, Phone Call, Google Meet / Zoom"
+      },
 ]
 export default Data;
